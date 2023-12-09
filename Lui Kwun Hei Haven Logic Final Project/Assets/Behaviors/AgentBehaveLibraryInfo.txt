@@ -1,0 +1,32 @@
+Library class:
+BLAgentBehaveLibrary
+
+Trees:
+	Robots_and_Aliens_AgentAI
+	Unknown
+
+Contexts:
+	Unknown
+
+Branch priority groups:
+	PriorityOutput1
+	PriorityOutput2
+	PriorityOutput3
+	PriorityOutput4
+	Unknown
+
+Actions (6: 1 - 7):
+	Die (1)
+	Idle (2)
+	Patrol (3)
+	Attack (4)
+	TakeCover (5)
+	CoverShoot (6)
+	Unknown (7)
+
+Decorators (2: 8 - 10):
+	Health (8)
+	LowHealth (9)
+	Unknown (10)
+
+Agent classes:

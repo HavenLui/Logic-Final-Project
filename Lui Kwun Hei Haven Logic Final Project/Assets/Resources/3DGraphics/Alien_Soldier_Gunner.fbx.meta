@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 17851f85a95ad4646b5e5a0e9779a370
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ikHandle1
+    100002: joint22
+    100004: joint21
+    100006: joint20
+    100008: left_control
+    100010: ikHandle2
+    100012: locator2
+    100014: right_control
+    100016: joint3
+    100018: joint2
+    100020: waist_joint
+    100022: polySurface3
+    100024: //RootNode
+    100026: joint14
+    100028: joint13
+    100030: joint12
+    100032: head_2
+    100034: head
+    100036: locator1
+    100038: joint19
+    100040: joint18
+    100042: joint17
+    100044: joint16
+    100046: joint15
+    100048: neck
+    100050: spine_4_
+    100052: spine_3
+    100054: spine_2
+    100056: spine_1
+    100058: joint4
+    400000: ikHandle1
+    400002: joint22
+    400004: joint21
+    400006: joint20
+    400008: left_control
+    400010: ikHandle2
+    400012: locator2
+    400014: right_control
+    400016: joint3
+    400018: joint2
+    400020: waist_joint
+    400022: polySurface3
+    400024: //RootNode
+    400026: joint14
+    400028: joint13
+    400030: joint12
+    400032: head_2
+    400034: head
+    400036: locator1
+    400038: joint19
+    400040: joint18
+    400042: joint17
+    400044: joint16
+    400046: joint15
+    400048: neck
+    400050: spine_4_
+    400052: spine_3
+    400054: spine_2
+    400056: spine_1
+    400058: joint4
+    4300000: polySurface3
+    7400000: Take 001
+    7400002: Run
+    7400004: Attack
+    11100000: //RootNode
+    13700000: waist_joint
+    13700002: polySurface3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: 
+      firstFrame: 11
+      lastFrame: 27
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack
+      takeName: 
+      firstFrame: 67
+      lastFrame: 105
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 

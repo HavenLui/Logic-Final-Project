@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 7d96a1813e6083f4b83c7008cdc40c0b
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cover_Back
+    100004: Door_Right
+    100006: Bumper_Front
+    100008: Bumper_Rear
+    100010: Door_Left
+    100012: Cover_Front
+    100014: Spoiler
+    100016: Light_Front
+    100018: Wheel_FL001
+    100020: Wheel_RL001
+    100022: CollisionMesh
+    100024: Lights_Back
+    100026: Body
+    100028: Wheel_FL
+    100030: Wheel_RL
+    100032: Glasses
+    100034: Interior
+    400000: //RootNode
+    400002: Cover_Back
+    400004: Door_Right
+    400006: Bumper_Front
+    400008: Bumper_Rear
+    400010: Door_Left
+    400012: Cover_Front
+    400014: Spoiler
+    400016: Light_Front
+    400018: Wheel_FL001
+    400020: Wheel_RL001
+    400022: CollisionMesh
+    400024: Lights_Back
+    400026: Body
+    400028: Wheel_FL
+    400030: Wheel_RL
+    400032: Glasses
+    400034: Interior
+    2300000: Cover_Back
+    2300002: Door_Right
+    2300004: Bumper_Front
+    2300006: Bumper_Rear
+    2300008: Door_Left
+    2300010: Cover_Front
+    2300012: Spoiler
+    2300014: Light_Front
+    2300016: Wheel_FL001
+    2300018: Wheel_RL001
+    2300020: CollisionMesh
+    2300022: Lights_Back
+    2300024: Body
+    2300026: Wheel_FL
+    2300028: Wheel_RL
+    2300030: Glasses
+    2300032: Interior
+    3300000: Cover_Back
+    3300002: Door_Right
+    3300004: Bumper_Front
+    3300006: Bumper_Rear
+    3300008: Door_Left
+    3300010: Cover_Front
+    3300012: Spoiler
+    3300014: Light_Front
+    3300016: Wheel_FL001
+    3300018: Wheel_RL001
+    3300020: CollisionMesh
+    3300022: Lights_Back
+    3300024: Body
+    3300026: Wheel_FL
+    3300028: Wheel_RL
+    3300030: Glasses
+    3300032: Interior
+    4300000: Interior
+    4300002: Glasses
+    4300004: Wheel_RR
+    4300006: Wheel_FL
+    4300008: Body
+    4300010: Lights_Back
+    4300012: Lights_Back
+    4300014: Wheel_RL
+    4300016: Wheel_FR
+    4300018: Light_Front
+    4300020: Spoiler
+    4300022: Cover_Front
+    4300024: Door_Left
+    4300026: Bumper_Rear
+    4300028: Bumper_Front
+    4300030: Door_Right
+    4300032: Cover_Back
+    4300034: CollisionMesh
+    4300036: Wheel_RL001
+    4300038: Wheel_FL001
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
